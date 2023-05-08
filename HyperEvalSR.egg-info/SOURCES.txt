@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+HyperEvalSR/__init__.py
+HyperEvalSR/ev.py
+HyperEvalSR/sr.py
+HyperEvalSR/test.py
+HyperEvalSR.egg-info/PKG-INFO
+HyperEvalSR.egg-info/SOURCES.txt
+HyperEvalSR.egg-info/dependency_links.txt
+HyperEvalSR.egg-info/requires.txt
+HyperEvalSR.egg-info/top_level.txt
