@@ -1,0 +1,16 @@
+./打包说明.txt
+./assets/
+./assets/*
+./HyperEvalSR.egg-info/*
+./HyperEvalSR.egg-info/
+打包说明.txt
+build/
+dist/
+*.egg-info/
+*.egg
+*.py[cod]
+__pycache__/
+*.so
+*~
+setup.py
+./setup.py
