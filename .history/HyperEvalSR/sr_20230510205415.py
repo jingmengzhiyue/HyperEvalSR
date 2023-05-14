@@ -1,5 +1,5 @@
 import numpy as np
-from scipy.special import erfinv
+from scipy import ndimage
 
 def fspecial_gauss(size, sigma):
     x, y = np.mgrid[-size//2 + 1:size//2 + 1, -size//2 + 1:size//2 + 1]

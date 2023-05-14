@@ -14,5 +14,3 @@ __pycache__/
 *~
 setup.py
 ./setup.py
-dataset/
-./dataset/
